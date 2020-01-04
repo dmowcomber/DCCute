@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 
 # The DCC un*x terminal environment
 # Copyright 2017 deltaray (deltaray@slugbug.org)
